@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProjectOnBoard</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_beach_overview">BeachOverview</string>
+    <string name="title_activity_umbrella_overview">UmbrellaOverview</string>
+    <string name="umbrella">Umbrella</string>
+    <string name="title_activity_order_overview">OrderOverview</string>
+    <string name="order">Order</string>
+
+</resources>

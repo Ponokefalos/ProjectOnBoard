@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.kir.projectonboard.BeachOverview"
+    android:background="@color/main_background">
+
+    <ScrollView
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/svUmbrellas" >
+
+        <LinearLayout
+            android:id="@+id/llUmbrellas"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></LinearLayout>
+    </ScrollView>
+</RelativeLayout>
